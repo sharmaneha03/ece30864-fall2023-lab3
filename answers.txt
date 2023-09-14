@@ -1,3 +1,6 @@
 1. The client is equivalent to the Product Owner in a non-Agile project. The product owner sets direction for the team, handles release
 management and stakeholder management. Their responsibilities include planning, scheduling, resource allocation, execution, tracking and
 delivery of software projects.
+2. The Product Owner sets direction for the team, handles release
+management and stakeholder management, whereas the Scrum Master manages all scrum related tasks, like JIRA tooling, facilitating sprints
+and meetings, standups.
