@@ -4,3 +4,4 @@ delivery of software projects.
 2. The Product Owner sets direction for the team, handles release
 management and stakeholder management, whereas the Scrum Master manages all scrum related tasks, like JIRA tooling, facilitating sprints
 and meetings, standups.
+3. There are sprint planning meetings, daily standup meetings, and sprint retrospective meetings. In the Sprint Planning Meeting, it should be determined what to complete in the coming sprint, move stories in sprint scope from backlog to current sprint, and determine story points and assign stories to team. The Daily Scrum/Standup Meeting is a short meeting that happens every day of the sprint where team members discuss work completed, work plan for the day and any blockers. The Sprint Retrospective Meeting occurs at the end of the sprint to discuss work completed, move incomplete work to backlog, and close sprint.
